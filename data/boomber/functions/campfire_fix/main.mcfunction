@@ -1,0 +1,1 @@
+execute as @a if data entity @s Inventory[{id: "minecraft:campfire"}] run function boomber:campfire_fix/check

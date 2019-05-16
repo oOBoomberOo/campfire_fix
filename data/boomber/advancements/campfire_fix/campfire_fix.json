@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": "Campfire Fix v1.0",
+		"description": "",
+		"icon": {
+			"item": "minecraft:campfire"
+		},
+		"announce_to_chat": false,
+		"show_toast": false
+	},
+	"parent": "boomber:boomber",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	
+	}
+}

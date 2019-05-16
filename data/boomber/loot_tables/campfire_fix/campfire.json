@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:item",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{BlockStateTag:{lit: \"false\"}, ucit:{id: \"campfire\", from: \"boomber:campfire_fix\", author: [\"boomber\"]}}"
+						}
+					],
+					"name": "minecraft:campfire"
+				}
+			]
+		}
+	]
+}
